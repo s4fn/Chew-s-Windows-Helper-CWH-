@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Quick Start
-
+(> Or you can just open with main.py file)
 To get the helper up and running, follow these steps in your terminal:
 
 ### 1️⃣ Clone the Repository
